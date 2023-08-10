@@ -1,0 +1,17 @@
+@media screen and (max-width: 1200px) {
+  .container {
+    max-width: unset;
+    width: calc(100% - 64px);
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .container {
+    max-width: unset;
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0 16px;
+    min-width: unset;
+  }
+}

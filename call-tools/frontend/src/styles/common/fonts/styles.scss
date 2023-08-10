@@ -1,0 +1,41 @@
+//@font-face {
+//  font-family: 'Montserrat';
+//  src: url('../../src/fonts/montserrat/Montserrat-Light.woff2') format('woff2'),
+//  url('../../src/fonts/montserrat/Montserrat-Light.woff') format('woff'),
+//  url('../../src/fonts/montserrat/Montserrat-Light.ttf') format('truetype');
+//  font-weight: 300;
+//  font-style: normal;
+//  font-display: swap;
+//}
+
+
+@font-face {
+  font-family: 'Geometria';
+  src: url('../../src/fonts/Geometria-Bold.woff2') format('woff2'),
+  url('../../src/fonts/Geometria-Bold.woff') format('woff'),
+  url('../../src/fonts/Geometria-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geometria';
+  src: url('../../src/fonts/Geometria-Medium.woff2') format('woff2'),
+  url('../../src/fonts/Geometria-Medium.woff') format('woff'),
+  url('../../src/fonts/Geometria-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geometria';
+  src: url('../../src/fonts/Geometria-Light.woff2') format('woff2'),
+  url('../../src/fonts/Geometria-Light.woff') format('woff'),
+  url('../../src/fonts/Geometria-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
